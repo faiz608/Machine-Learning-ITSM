@@ -88,7 +88,7 @@ Automation of incident monitoring and alerting
 
 👤 Author
 
-Mohammad Muneeb Ali
+Mohammad Faizan Ali
 Certified Data Science Trainee
 Academic / Client Project
 
